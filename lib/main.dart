@@ -1,0 +1,7 @@
+import 'package:bottom_nav_bar/app.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(const MyApp());
+}
